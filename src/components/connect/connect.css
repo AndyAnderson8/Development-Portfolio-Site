@@ -1,0 +1,49 @@
+.box {
+  height: 480px;
+  width: 90%;
+  max-width: 896px;
+  border-radius: 1rem;
+  border: 3px solid var(--dark-main);
+  background-color: var(--grey-alt);
+  color: var(--dark-main);
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+.contact-form {
+  padding: 1rem;
+  width: 100%;
+  text-align: center;
+}
+
+.input {
+  border: 1px solid var(--dark-main);
+  border-radius: 0.25rem;
+  height: 25px;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 0.5rem;
+  background-color: var(--grey-main);
+  color: var(--light-alt);
+  resize: none;
+}
+
+.message {
+  height: 310px;
+}
+
+.submit {
+  font-size: 100%;
+  border: 1px solid var(--accent-main);
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  background-color: var(--grey-main);
+  color: var(--accent-main);
+  transition: var(--transition);
+}
+
+.submit:hover {
+  border: 1px solid var(--light-alt);
+  color: var(--light-alt);
+}

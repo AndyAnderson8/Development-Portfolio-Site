@@ -1,0 +1,36 @@
+.propic {
+  width: 100%;
+  max-width: 370px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 2;
+}
+
+.image {
+  width: 30%;
+  min-width: 255px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.text {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 150%;
+  padding: 1rem;
+}
+
+/* Small Device Sizing */
+@media screen and (max-width: 958px) {
+  .image {
+    display: none;
+  }
+  .text {
+    width: auto;
+    text-align: center;
+  }
+}

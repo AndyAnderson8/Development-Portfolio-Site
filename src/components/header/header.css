@@ -1,0 +1,29 @@
+.links {
+  display: flex;
+  align-items: center;
+}
+
+.header {
+  font-size: 1.5rem;
+  color: var(--light-main);
+  transition: var(--transition);
+}
+
+.bar {
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 100%;
+}
+
+.center {
+  display: flex;
+}
+
+.social-icons {
+  margin-top: 4px;
+}
+
+.social-icons a {
+  margin-left: 1.5rem;
+  transition: var(--transition);
+}

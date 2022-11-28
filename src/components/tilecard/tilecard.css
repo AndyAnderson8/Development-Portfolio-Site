@@ -1,0 +1,95 @@
+.tilecard {
+  height: 480px;
+  width: 384px;
+  border-radius: 1rem;
+  border: 3px solid var(--dark-main);
+  background-color: var(--light-main);
+  color: var(--dark-main);
+  overflow: hidden;
+}
+
+.screenshot {
+  height: 45%;
+  overflow: hidden;
+}
+
+.information {
+  height: 45%;
+  padding: 1rem;
+  padding-top: 0.5rem;
+}
+
+.description {
+  padding-top: 0.5rem;
+}
+
+.headbar {
+  display: flex;
+  position: relative;
+  font-size: 150%;
+  justify-content: space-between;
+  top: 0%;
+}
+
+.icons {
+  height: 10%;
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  width: 60px;
+  top: 4px;
+}
+
+.icon {
+  color: var(--dark-main);
+  transition: var(--transition);
+}
+
+.icon:hover {
+  color: var(--accent-main);
+}
+
+.tags {
+  display: flex;
+  gap: 0.5rem;
+  padding-left: 1rem;
+}
+
+.tag {
+  border: 1px solid;
+  width: auto;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.java {
+  color: #f89820;
+}
+
+.python {
+  color: #3776ab;
+}
+
+.lua {
+  color: #000080;
+}
+
+.android {
+  color: #a4c639;
+}
+
+.solar2d {
+  color: #ff6601;
+}
+
+.roblox {
+  color: #ff0a0c;
+}
+
+.selenium {
+  color: #00b400;
+}
