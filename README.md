@@ -1,6 +1,6 @@
-# Andy's Personal Portfolio Website
+# Andy's Personal Development Portfolio Site
 
-Welcome to the repository of my personal portfolio website! A curated showcase of my web development journey. View the live version at [andylabs.org](https://andylabs.org).
+Welcome to the repository of my personal development portfolio site! A curated showcase of my web development journey. View the live version at [andylabs.org](https://andylabs.org).
 
 ## 🌟 Features
 
