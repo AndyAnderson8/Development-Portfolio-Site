@@ -22,4 +22,5 @@ While this is a personal project, feedback and suggestions are always appreciate
 
 ## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License]
+(https://choosealicense.com/licenses/mit/)https://choosealicense.com/licenses/mit/).
