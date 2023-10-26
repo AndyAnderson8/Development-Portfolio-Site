@@ -1,10 +1,25 @@
-# Personal Porfolio Site
+# Andy's Personal Portfolio Website
 
-My personal portfolio site to showcase my projects and front-end development skills. Can be viewed at https://andylabs.org.
+Welcome to the repository of my personal portfolio website! A curated showcase of my web development journey. View the live version at [andylabs.org](https://andylabs.org).
 
-## Built with
+## 🌟 Features
 
-- HTML
-- CSS
-- JavaScript
-- React
+- **Interactive UI**: A sleek and modern interface optimized for a seamless user experience.
+- **Showcase of Projects**: A collection of handpicked projects reflecting my passion and proficiency in web development.
+- **Responsive Design**: Ensures smooth navigation across all device sizes.
+- **Dynamic Interactions**: Utilizing JavaScript and ReactJS for lively content display and interactions.
+
+## 🔧 Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **ReactJS**
+
+## 🤝 Contributing
+
+While this is a personal project, feedback and suggestions are always appreciated. Feel free to open an issue or provide pull requests.
+
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE).
